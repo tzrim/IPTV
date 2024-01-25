@@ -1,781 +1,781 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV16-4K
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16-4K
 http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV16-4K
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16-4K
 http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV16-4K
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16-4K
 http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",SiTV欢笑剧场
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",SiTV欢笑剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K
 http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K
 http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K
 http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",4K修复
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K修复
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",凤凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221227375/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221227736/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221227641/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221226316/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221225530/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221227494/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221228146/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221227644/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221227675/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221228049/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221227462/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221227634/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221227431/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221228213/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221228149/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://ott.mobaibox.com/PLTV/3/224/3221228094/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://ott.mobaibox.com/PLTV/3/224/3221226993/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://ott.mobaibox.com/PLTV/3/224/3221227207/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://ott.mobaibox.com/PLTV/3/224/3221227708/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://ott.mobaibox.com/PLTV/3/224/3221227427/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://ott.mobaibox.com/PLTV/3/224/3221227696/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://ott.mobaibox.com/PLTV/3/224/3221228118/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://ott.mobaibox.com/PLTV/3/224/3221228300/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://ott.mobaibox.com/PLTV/3/224/3221227481/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://ott.mobaibox.com/PLTV/3/224/3221225588/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://ott.mobaibox.com/PLTV/3/224/3221227295/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://ott.mobaibox.com/PLTV/3/224/3221228237/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://ott.mobaibox.com/PLTV/3/224/3221227650/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://ott.mobaibox.com/PLTV/3/224/3221227623/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://ott.mobaibox.com/PLTV/3/224/3221227424/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://ott.mobaibox.com/PLTV/3/224/3221228188/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://ott.mobaibox.com/PLTV/3/224/3221228392/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://ott.mobaibox.com/PLTV/3/224/3221227546/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://ott.mobaibox.com/PLTV/3/224/3221227378/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://ott.mobaibox.com/PLTV/3/224/3221225534/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://ott.mobaibox.com/PLTV/3/224/3221227658/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://ott.mobaibox.com/PLTV/3/224/3221227683/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://ott.mobaibox.com/PLTV/3/224/3221228156/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://ott.mobaibox.com/PLTV/3/224/3221227489/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://ott.mobaibox.com/PLTV/3/224/3221228307/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://ott.mobaibox.com/PLTV/3/224/3221228091/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://ott.mobaibox.com/PLTV/3/224/3221227298/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://ott.mobaibox.com/PLTV/3/224/3221227166/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://ott.mobaibox.com/PLTV/3/224/3221227640/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://ott.mobaibox.com/PLTV/3/224/3221227478/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://ott.mobaibox.com/PLTV/3/224/3221227452/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://ott.mobaibox.com/PLTV/3/224/3221227661/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://ott.mobaibox.com/PLTV/3/224/3221228173/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://ott.mobaibox.com/PLTV/3/224/3221228082/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://ott.mobaibox.com/PLTV/3/224/3221227466/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://ott.mobaibox.com/PLTV/3/224/3221227401/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://ott.mobaibox.com/PLTV/3/224/3221227686/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://ott.mobaibox.com/PLTV/3/224/3221228395/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://ott.mobaibox.com/PLTV/3/224/3221227537/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://ott.mobaibox.com/PLTV/3/224/3221227617/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://ott.mobaibox.com/PLTV/3/224/3221227381/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://ott.mobaibox.com/PLTV/3/224/3221228492/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://ott.mobaibox.com/PLTV/3/224/3221227522/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://ott.mobaibox.com/PLTV/3/224/3221225604/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://ott.mobaibox.com/PLTV/3/224/3221227714/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://ott.mobaibox.com/PLTV/3/224/3221227685/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://ott.mobaibox.com/PLTV/3/224/3221228114/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://ott.mobaibox.com/PLTV/3/224/3221228076/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://ott.mobaibox.com/PLTV/3/224/3221227463/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://ott.mobaibox.com/PLTV/3/224/3221227480/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://ott.mobaibox.com/PLTV/3/224/3221227631/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://ott.mobaibox.com/PLTV/3/224/3221228277/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://ott.mobaibox.com/PLTV/3/224/3221227502/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://ott.mobaibox.com/PLTV/3/224/3221228176/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://ott.mobaibox.com/PLTV/3/224/3221227209/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://ott.mobaibox.com/PLTV/3/224/3221227301/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://ott.mobaibox.com/PLTV/3/224/3221228196/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://ott.mobaibox.com/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://ott.mobaibox.com/PLTV/3/224/3221227664/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://ott.mobaibox.com/PLTV/3/224/3221228185/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://ott.mobaibox.com/PLTV/3/224/3221227581/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://ott.mobaibox.com/PLTV/3/224/3221227430/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://ott.mobaibox.com/PLTV/3/224/3221228280/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://ott.mobaibox.com/PLTV/3/224/3221227505/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://ott.mobaibox.com/PLTV/3/224/3221228123/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
 http://ott.mobaibox.com/PLTV/3/224/3221227314/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
 http://ott.mobaibox.com/PLTV/3/224/3221225546/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
 http://ott.mobaibox.com/PLTV/3/224/3221227642/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
 http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
 http://ott.mobaibox.com/PLTV/3/224/3221227690/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
 http://ott.mobaibox.com/PLTV/3/224/3221228283/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://ott.mobaibox.com/PLTV/3/224/3221227304/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://ott.mobaibox.com/PLTV/3/224/3221227205/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://ott.mobaibox.com/PLTV/3/224/3221227204/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://ott.mobaibox.com/PLTV/3/224/3221227667/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://ott.mobaibox.com/PLTV/3/224/3221227750/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://ott.mobaibox.com/PLTV/3/224/3221228079/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://ott.mobaibox.com/PLTV/3/224/3221227433/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://ott.mobaibox.com/PLTV/3/224/3221227629/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://ott.mobaibox.com/PLTV/3/224/3221228398/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://ott.mobaibox.com/PLTV/3/224/3221228194/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
 http://ott.mobaibox.com/PLTV/3/224/3221225532/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
 http://ott.mobaibox.com/PLTV/3/224/3221227659/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
 http://ott.mobaibox.com/PLTV/3/224/3221227704/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
 http://ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
 http://ott.mobaibox.com/PLTV/3/224/3221228303/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
 http://ott.mobaibox.com/PLTV/3/224/3221227317/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
 http://ott.mobaibox.com/PLTV/3/224/3221225550/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
 http://ott.mobaibox.com/PLTV/3/224/3221227717/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
 http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
 http://ott.mobaibox.com/PLTV/3/224/3221228286/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
 http://ott.mobaibox.com/PLTV/3/224/3221227524/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
 http://ott.mobaibox.com/PLTV/3/224/3221227384/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
 http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
 http://ott.mobaibox.com/PLTV/3/224/3221228289/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
 http://ott.mobaibox.com/PLTV/3/224/3221225556/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
 http://ott.mobaibox.com/PLTV/3/224/3221227655/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
 http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
 http://ott.mobaibox.com/PLTV/3/224/3221228401/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://ott.mobaibox.com/PLTV/3/224/3221225560/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://ott.mobaibox.com/PLTV/3/224/3221228121/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://ott.mobaibox.com/PLTV/3/224/3221227387/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://ott.mobaibox.com/PLTV/3/224/3221228324/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
 http://ott.mobaibox.com/PLTV/3/224/3221227201/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
 http://ott.mobaibox.com/PLTV/3/224/3221227656/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
 http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
 http://ott.mobaibox.com/PLTV/3/224/3221228292/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
 http://ott.mobaibox.com/PLTV/3/224/3221227538/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
 http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
 http://ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV16
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
 http://ott.mobaibox.com/PLTV/3/224/3221228320/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV16
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
 http://ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV16
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
 http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV16
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
 http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV17
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://ott.mobaibox.com/PLTV/3/224/3221227578/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV17
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://ott.mobaibox.com/PLTV/3/224/3221227589/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV17
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV17
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV17
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV高尔夫网球
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="地方",CCTV高尔夫网球
 http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227396/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228504/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227597/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227732/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227688/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228150/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227208/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227486/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228425/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227393/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227215/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227744/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227692/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228147/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228204/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221225544/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228309/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227402/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227649/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227255/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227561/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227668/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227689/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227185/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227439/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228099/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228306/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227552/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227320/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227220/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227735/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227698/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228227/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227191/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227404/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228413/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227482/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227307/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227624/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227677/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227695/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228236/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227217/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227442/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227390/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227246/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227652/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227694/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228115/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://ott.mobaibox.com/PLTV/3/224/3221225574/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227436/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228410/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",吉林卫视
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228028/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",吉林卫视
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",四川卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227556/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227382/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227212/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227633/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227741/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227756/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228239/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227407/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228416/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://ott.mobaibox.com/PLTV/3/224/3221225634/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227653/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227759/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228153/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227498/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227643/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228327/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227310/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228560/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227621/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227671/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227697/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228124/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227258/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227448/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228315/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227399/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228566/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227249/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227591/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227673/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227691/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228230/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227445/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228312/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",东南卫视
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",东南卫视
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",东南卫视
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228428/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",云南卫视
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221225591/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",云南卫视
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",江西卫视
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228557/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",江西卫视
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
 http://ott.mobaibox.com/PLTV/3/224/3221225536/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",江西卫视
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227738/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",江西卫视
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",河北卫视
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227545/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",河北卫视
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",河南卫视
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227521/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",河南卫视
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",海南卫视
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",海南卫视
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228101/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227377/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227211/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227565/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227665/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227703/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227495/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227479/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",甘肃卫视
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",贵州卫视
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227551/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",贵州卫视
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227380/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227676/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227700/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228162/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227410/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228310/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227632/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227550/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227729/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",青海卫视
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227323/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227252/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227662/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227753/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228233/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227492/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227638/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228295/index.m3u8
-#EXTINF:-1 group-title="卫视高清,#genre#",黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",上海纪实人文
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实人文
 http://ott.mobaibox.com/PLTV/3/224/3221227674/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",上海纪实人文
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实人文
 http://ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",北京冬奥纪实
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京冬奥纪实
 http://ott.mobaibox.com/PLTV/3/224/3221227711/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",北京冬奥纪实
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京冬奥纪实
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV海外剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV海外剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV中国功夫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV中国功夫
 http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV军事评论
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV军事评论
 http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV军旅剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV军旅剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV农业致富
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV农业致富
 http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV动作电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV动作电影
 http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV家庭剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV家庭剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV怡伴健康
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV怡伴健康
 http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV惊悚悬疑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV惊悚悬疑
 http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV明星大片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV明星大片
 http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV武搏世界
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV武搏世界
 http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV潮妈辣婆
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV潮妈辣婆
 http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV炫舞未来
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV炫舞未来
 http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV爱情喜剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV爱情喜剧
 http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV精品体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV精品体育
 http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV精品大剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV精品大剧
 http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV精品纪录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV精品纪录
 http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV精品萌宠
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV精品萌宠
 http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",NewTV金牌综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV金牌综艺
 http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",黑莓动画
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓动画
 http://ott.mobaibox.com/PLTV/3/224/3221227523/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",黑莓动画
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓动画
 http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",黑莓电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电影
 http://ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",黑莓电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电影
 http://ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",哒啵赛事
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",哒啵赛事
 http://ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",百姓生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百姓生活
 http://ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",知否知否
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",知否知否
 http://ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
 http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
 http://ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
 http://ott.mobaibox.com/PLTV/3/224/3221228463/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
 http://ott.mobaibox.com/PLTV/3/224/3221228460/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
 http://ott.mobaibox.com/PLTV/3/224/3221228456/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
 http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
 http://ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
 http://ott.mobaibox.com/PLTV/3/224/3221228536/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",咪咕全民热练
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕全民热练
 http://ott.mobaibox.com/PLTV/3/224/3221228427/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",咪咕视频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕视频
 http://ott.mobaibox.com/PLTV/3/224/3221228231/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",咪咕视频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕视频
 http://ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",咪咕视频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕视频
 http://ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",咪咕视频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕视频
 http://ott.mobaibox.com/PLTV/3/224/3221228193/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",咪咕视频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕视频
 http://ott.mobaibox.com/PLTV/3/224/3221228234/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",南京信息
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南京信息
 http://ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",南京娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南京娱乐
 http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",南京新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南京新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",东海综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东海综合
 http://ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",南通2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南通2
 http://ott.mobaibox.com/PLTV/3/224/3221228448/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",南通3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南通3
 http://ott.mobaibox.com/PLTV/3/224/3221228451/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",南通新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南通新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228462/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",宝应新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宝应新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228007/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",宝应生活资讯
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宝应生活资讯
 http://ott.mobaibox.com/PLTV/3/224/3221228039/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",崇川
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",崇川
 http://ott.mobaibox.com/PLTV/3/224/3221228533/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",常州公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",常州公共
 http://ott.mobaibox.com/PLTV/3/224/3221227772/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",常州公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",常州公共
 http://ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",常州新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",常州新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221227752/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",常州新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",常州新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",常州生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",常州生活
 http://ott.mobaibox.com/PLTV/3/224/3221227816/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",常州生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",常州生活
 http://ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",常州都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",常州都市
 http://ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",常州都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",常州都市
 http://ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",徐州1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",徐州1
 http://ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",徐州2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",徐州2
 http://ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",徐州3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",徐州3
 http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",徐州4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",徐州4
 http://ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",沛县文艺影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",沛县文艺影视
 http://ott.mobaibox.com/PLTV/3/224/3221227681/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",沛县新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",沛县新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221227678/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",沛县经济生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",沛县经济生活
 http://ott.mobaibox.com/PLTV/3/224/3221227611/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",泰州1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",泰州1
 http://ott.mobaibox.com/PLTV/3/224/3221228209/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",泰州2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",泰州2
 http://ott.mobaibox.com/PLTV/3/224/3221228212/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",泰州3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",泰州3
 http://ott.mobaibox.com/PLTV/3/224/3221228100/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",盐城1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",盐城1
 http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",盐城2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",盐城2
 http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",盐城3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",盐城3
 http://ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",睢宁三农
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",睢宁三农
 http://ott.mobaibox.com/PLTV/3/224/3221227709/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",睢宁生活教育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",睢宁生活教育
 http://ott.mobaibox.com/PLTV/3/224/3221227701/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",睢宁综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",睢宁综合
 http://ott.mobaibox.com/PLTV/3/224/3221227706/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",睢宁资讯
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",睢宁资讯
 http://ott.mobaibox.com/PLTV/3/224/3221227712/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",赣榆
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",赣榆
 http://ott.mobaibox.com/PLTV/3/224/3221228317/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",连云港公共 2M1080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",连云港公共 2M1080
 http://ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",连云港新闻综合 2M1080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",连云港新闻综合 2M1080
 http://ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",邳州综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",邳州综合
 http://ott.mobaibox.com/PLTV/3/224/3221227576/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",镇江新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",镇江新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",新疆卫视
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",无锡新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",无锡新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",铜山三农
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",铜山三农
 http://ott.mobaibox.com/PLTV/3/224/3221228081/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",铜山影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",铜山影视
 http://ott.mobaibox.com/PLTV/3/224/3221228055/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",铜山综合 2M1080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",铜山综合 2M1080
 http://ott.mobaibox.com/PLTV/3/224/3221228152/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",镇江2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",镇江2
 http://ott.mobaibox.com/PLTV/3/224/3221227325/index.m3u8
-#EXTINF:-1 group-title="其他,#genre#",镇江3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",镇江3
 http://ott.mobaibox.com/PLTV/3/224/3221228208/index.m3u8
